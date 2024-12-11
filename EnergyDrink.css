@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 65%;
+    padding: 20px;
+}
+
+header .container{
+    display: flex;
+    justify-content: space-between;
+}
+
+header a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: tahoma ;
+}
+
+.banner-container .container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.home-right-section{
+    height: 100px;
+}
+
+.home-right-section img{
+    width: 140px;
+    height: 100px;
+    border-radius: 25px;
+    margin-top: 280px;
+}
+
+.home-left-section img{
+    margin-left: 180px;
+}
