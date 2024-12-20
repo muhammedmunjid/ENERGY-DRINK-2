@@ -78,3 +78,61 @@ header a{
     margin-left: -100px;
     padding-bottom: 200px;
 }
+
+.home-top-bottom-section{
+    display: flex;
+    justify-content: space-around
+}
+
+.htbs-left button{
+    width: 50px;
+    height: 50px;
+    border-radius: 60px;
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+.htbs-left-buttons{
+    padding-top: 80px;
+    margin-left: -25px;
+}
+
+.htbs-left p{
+    color: rgb(30, 90, 35);
+    font-weight: bold;
+}
+
+.htbs-texts{
+    margin-left: 145px;
+    margin-top: -80px;
+}
+
+.htbs-texts h1{
+    font-size: 50px;
+}
+
+.htbs-texts h4{
+    color: rgb(36, 68, 27);
+}
+
+.htbs-right img{
+    width: 63px;
+    height: 60px;
+    border-radius: 50px;
+}
+
+.htbs-right figure{
+    display: flex;
+    align-items: center;
+    margin-left: 143px;
+    padding-top: 50px;
+}
+
+.htbs-right figcaption h4{
+    color: rgb(34, 82, 19);
+    margin-left: 20px;
+}
+
+.htbs-right figcaption h6{
+    margin-left: 20px;
+}
