@@ -303,3 +303,25 @@ header a{
 .hts-right-section-button{
     padding-top: 10px;
 }
+
+.home-thrid-section-bottom{
+    padding-top: 120px;
+}
+
+.home-thrid-section-bottom .container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.htsb-left{
+    display: flex;
+}
+
+.htsb-left-text{
+    margin-left: -110px;
+    padding-right: 100px;
+}
+
+.htsb-right h4{
+    color: rgb(5, 68, 3);
+}
