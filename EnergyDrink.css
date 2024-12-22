@@ -144,7 +144,7 @@ header a{
 .second-container{
     width: 98%;
     height: 130vh;
-    background-color: rgb(81, 146, 87);
+    background-color: rgb(98, 129, 101);
     border-radius: 30px;
     margin-left: 13px;
     display: flex;
@@ -324,4 +324,105 @@ header a{
 
 .htsb-right h4{
     color: rgb(5, 68, 3);
+}
+
+.home-forth-section{
+    padding-top: 120px;
+}
+
+.hfs-right img{
+    height: 500px;
+    margin-left: 130px;
+}
+
+.hfs-left button{
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.hfs-button{
+    padding-top: 20px;
+}
+
+.hfs-left{
+    padding-top: 100px;
+}
+
+.hfs-left p{
+    color: white;
+}
+
+.hfs-left h1{
+    color: white;
+}
+
+.third-container .container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.third-container{
+    background-color: rgb(114, 138, 109);
+    width: 98%;
+    height: 70vh;
+    border-radius: 30px;
+    margin-left: 13px;
+}
+
+.about-section{
+    padding-top: 100px;
+}
+
+.about-main-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.about-main-section a{
+    text-decoration: none;
+    margin-right: 17px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: tahoma ;
+    color: gray;
+}
+
+.heading-section{
+    display: flex;
+    justify-content: center;
+}
+
+.heading-section h1{
+    font-size: 100px;
+    padding-bottom: 50px;
+    color: rgb(31, 73, 30);
+}
+
+.about-first-section div{
+    padding: 10px;
+}
+
+.about-second-section div{
+    padding: 10px;
+}
+
+.about-first-section p{
+    font-weight: bold;
+}
+
+.about-second-section p{
+    font-weight: bold;
+}
+
+.developer-detiles{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.developer-detiles p{
+    color: rgb(33, 65, 29);
 }
