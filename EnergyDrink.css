@@ -224,3 +224,82 @@ header a{
 .happy-costomers-k{
     margin-left: -250px;
 }
+
+.home-thrid-section{
+    padding-top: 200px;
+}
+
+.hts-first-section{
+    display: flex;
+    justify-content: right;
+}
+
+.hts-second-section{
+    display: flex;
+    justify-content: left;
+    padding-top: 30px;
+}
+
+.hts-second-section p{
+    padding-left: 130px;
+}
+
+.hts-first-section img{
+    margin-right: -30px;
+}
+
+.hts-first-section h1{
+    margin-right: 30px;
+    color: rgb(38, 68, 31);
+    font-weight: bold;
+}
+
+.hts-left-right-section{
+    display: flex;
+}
+
+.hts-left-section{
+    padding-top: 0px;
+}
+
+.hts-right-section{
+    padding-top: 120px;
+}
+
+.hts-left-section img{
+    height: 500px;
+}
+
+.hts-right-section-imgs{
+    display: flex;
+    padding-top: 60px;
+}
+
+.hts-right-section-imgs img{
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.hts-right-section h6{
+    font-size: 20px;
+    color: rgb(21, 46, 23);
+}
+
+.hts-right-section h1{
+    color: rgb(32, 61, 17);
+    font-size: 98px;
+    
+}
+
+.hts-right-section button{
+    width: 160px;
+    height: 50px;
+    border-radius: 50px;
+    border-color: rgb(0, 0, 0);
+}
+
+.hts-right-section-button{
+    padding-top: 10px;
+}
