@@ -193,6 +193,7 @@ header a{
     height: 50px;
     border-radius: 50px;
     border-color: rgb(0, 185, 185);
+    font-weight: bold;
 }
 
 .home-second-section-right img{
@@ -298,6 +299,7 @@ header a{
     height: 50px;
     border-radius: 50px;
     border-color: rgb(0, 0, 0);
+    font-weight: bold;
 }
 
 .hts-right-section-button{
@@ -357,6 +359,7 @@ header a{
 
 .hfs-left h1{
     color: white;
+    font-size: 50px;
 }
 
 .third-container .container{
